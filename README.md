@@ -14,4 +14,4 @@ This repository will be used to run Jupyter notebook locally. Some uses cases ar
 
 ## Start Jupyter Notebook
 
-Run `pixi run jupyter lab`.
+Run `pixi run lab`.
