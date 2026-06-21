@@ -12,6 +12,17 @@
 # model
 /model
 
+# Tex-related files
+*.aux
+*.out
+*.tex
+
+# Jupyter notebook images
+*.png
+
+# PDF output
+*.pdf
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode,pycharm+all,windows,linux,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,visualstudiocode,pycharm+all,windows,linux,macos
 
